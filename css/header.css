@@ -1,0 +1,29 @@
+.head-header {
+    position: fixed;
+    width: 100%;
+    height: 30px;
+    top: 0;
+    left: 0px;
+    right: 0px;
+    margin: 0 auto;
+    background: #f0f0f0;
+
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    z-index: 40;
+}
+
+a {
+    text-decoration: none;
+    outline: none;
+}
+
+.head-logo-div {
+    line-height: 30px;
+    margin-left: 100px;
+}
+
+.head-logo {
+    height: 80px;
+}
